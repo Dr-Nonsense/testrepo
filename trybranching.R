@@ -1,10 +1,5 @@
-some thing that has been there
-
-some more thing that was there
-
-here something should be inserted
-
-
-
-
-and here things should continue
+original text 1
+original text 2
+original text 3
+original text 4
+original text 5
