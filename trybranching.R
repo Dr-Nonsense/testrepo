@@ -7,3 +7,5 @@
 # sooo, but this looks right in both branches. Is this not working or what?
 
 # oi, so it did work. still talking out of branchybranch
+
+# I am in master now and see that both master and branchybranch have both changes implemented.
