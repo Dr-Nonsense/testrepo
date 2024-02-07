@@ -8,6 +8,15 @@
 
 # oi, so it did work. still talking out of branchybranch
 
+<<<<<<< HEAD
 # I am in master now and see that both master and branchybranch have both changes implemented.
 
 # main is ahead of things. Don't see merge request on github
+=======
+
+
+
+
+
+# lets create some conflict out of branchybranch
+>>>>>>> branchybranchNo1
