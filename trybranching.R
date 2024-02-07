@@ -4,3 +4,5 @@
 # wellwell, I am now in branchybranch no 1 and am adding this conversation to myself
 
 # sooo, but this looks right in both branches. Is this not working or what?
+
+# oi, so it did work. still talking out of branchybranch
